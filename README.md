@@ -19,7 +19,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me...)](https://git.io/typing-svg)
 <p align="left">
-  <a href="https://www.linkedin.com/in/muharremgem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muharrem gem" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nurullah-arslan-889661237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muharrem gem" height="30" width="40" /></a>
 <a href=" " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="muharrem gem" height="30" width="40" /></a>  
   <a href="https://app.netlify.com/teams/muharremgem/overview" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg" alt="muharrem gem" height="30" width="40" /></a>
 <a href="https://twitter.com/muharremgem28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
@@ -66,11 +66,20 @@
 ---------------------------------------------------------------------------<br/>
  Project Repository:https://github.com/codarsCoder/analog-clock/ <br/>
  ---------------------------------------------------------------------------<br/>
- Project Live:https://codarscoder.github.io/analog-clock/ <br/>
+ Project Live:https://codarscoder.github.io/analog-clock/ <br/>  
+ 
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------<br/>
+
+  Project Name:  Analog guagep (Html- vanilla js - css) <br/> 
+---------------------------------------------------------------------------<br/>
+ Project Repository:https://github.com/codarsCoder/analog-guage <br/>
+ ---------------------------------------------------------------------------<br/>
+ Project Live: https://codarscoder.github.io/analog-guage/ <br/>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=muharremgem&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=codarsCoder&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
