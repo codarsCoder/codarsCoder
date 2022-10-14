@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nurullah, a full-time Full-Stack Developer :male-technologist:</div>  
+### <div align="center">I'm Nurullah, a full-time Full-Stack Developer </div>  
   
 
 - :telescope: I'm currently student at bootcamp
