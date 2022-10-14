@@ -46,7 +46,7 @@
 
 
 ## My projects
-  Project Name:  javaScript-pure-toDo-App (Html- vanilla js - css -bootstrap) <br/> 
+  Project Name: <h5> javaScript-pure-toDo-App (Html- vanilla js - css -bootstrap)</h5> <br/> 
 ---------------------------------------------------------------------------<br/>
  Project Repository:https://github.com/codarsCoder/javaScript-pure-toDo-App <br/>
  ---------------------------------------------------------------------------<br/>
@@ -54,7 +54,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------<br/>
 
-  Project Name:  Analog clock and weather app (Html- vanilla js - css) <br/> 
+  Project Name: <h5> Analog clock and weather app (Html- vanilla js - css)</h5> <br/> 
 ---------------------------------------------------------------------------<br/>
  Project Repository:https://github.com/codarsCoder/analog-clock/ <br/>
  ---------------------------------------------------------------------------<br/>
@@ -63,7 +63,7 @@
  
 -------------------------------------------------------------------------------------------------------------------------------------------<br/>
 
-  Project Name:  Analog guagep (Html- vanilla js - css) <br/> 
+  Project Name: <h5> Analog guagep (Html- vanilla js - css)</h5> <br/> 
 ---------------------------------------------------------------------------<br/>
  Project Repository:https://github.com/codarsCoder/analog-guage <br/>
  ---------------------------------------------------------------------------<br/>
