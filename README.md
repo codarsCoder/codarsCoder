@@ -37,6 +37,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="Php" height="50" />
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
 <br/>
@@ -46,6 +47,20 @@
 
 
 ## My projects
+ <h4> Project Name:  REACT MOVİE APP (React-Context api - Firebase authendication - Css -Bootstrap)</h4> <br/> 
+---------------------------------------------------------------------------<br/>
+ Project Repository:https://github.com/codarsCoder/movie <br/>
+ ---------------------------------------------------------------------------<br/>
+ Project Live:https://codars-movie-app.netlify.app <br/>
+
+-------------------------------------------------------------------------------------------------------------------------------------------<br/>
+ <h4> Project Name:  REACT RECİPE APP (React - Css -Bootstrap)</h4> <br/> 
+---------------------------------------------------------------------------<br/>
+ Project Repository:https://github.com/codarsCoder/react-recipe-app <br/>
+ ---------------------------------------------------------------------------<br/>
+ Project Live:https://app.netlify.com/sites/coder-recipe-app/overview <br/>
+
+-------------------------------------------------------------------------------------------------------------------------------------------<br/>
  <h4> Project Name:  javaScript-pure-toDo-App (Html- vanilla js - css -bootstrap)</h4> <br/> 
 ---------------------------------------------------------------------------<br/>
  Project Repository:https://github.com/codarsCoder/javaScript-pure-toDo-App <br/>
