@@ -6,10 +6,12 @@
 ### <div align="center">I'm Nurullah, a full-time Full-Stack Developer </div>  
   
 
-- :telescope: I'm currently student at bootcamp
+
+
+- :telescope: I'm Full-Stack Developer
   
 
-- :seedling: I'm currently learning Full Stack Development  
+- :seedling: I build Web-Sites by coding with javaScript/React/HTML/CSS/Bootstrap/
   
 
 - :question: I'm 37 years old, from Turkey. learning enthusiast.  
