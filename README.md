@@ -63,7 +63,7 @@
 ---------------------------------------------------------------------------<br/>
  Project Repository:https://github.com/codarsCoder/poke-app <br/>
  ---------------------------------------------------------------------------<br/>
- Project Live:www.codars-poke-app.netlify.app <br/>
+ Project Live:https://codars-poke-app.netlify.app <br/>
 
 -------------------------------------------------------------------------------------------------------------------------------------------<br/>
  <h4> Project Name:  REACT MOVİE APP (React-Context api - Firebase authendication - Css -Bootstrap)</h4> <br/> 
