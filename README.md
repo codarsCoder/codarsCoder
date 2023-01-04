@@ -50,6 +50,22 @@
 
 
 ## My projects
+
+ <h4> Project Name:  REACT STOCK APP (React : Redux - Hooks  - Css - React_Bootstrap ,  Django_api)</h4> <br/> 
+---------------------------------------------------------------------------<br/>
+ Project Repository:https://github.com/codarsCoder/stock-app <br/>
+ ---------------------------------------------------------------------------<br/>
+ Project Live:https://codarscoder-stock-app-react.netlify.app/ <br/>
+
+-------------------------------------------------------------------------------------------------------------------------------------------<br/>
+
+ <h4> Project Name:  REACT POKE APP (Pokemons) (React :React - Bootstrap - css - pokemon api service - Firebase authentication and firestore database - Redux and Thunk</h4> <br/> 
+---------------------------------------------------------------------------<br/>
+ Project Repository:https://github.com/codarsCoder/poke-app <br/>
+ ---------------------------------------------------------------------------<br/>
+ Project Live:www.codars-poke-app.netlify.app <br/>
+
+-------------------------------------------------------------------------------------------------------------------------------------------<br/>
  <h4> Project Name:  REACT MOVİE APP (React-Context api - Firebase authendication - Css -Bootstrap)</h4> <br/> 
 ---------------------------------------------------------------------------<br/>
  Project Repository:https://github.com/codarsCoder/movie <br/>
