@@ -51,7 +51,7 @@
 
 ## My projects
 
- <h4> Project Name:  REACT STOCK APP (React : Redux - Hooks  - Css - React_Bootstrap ,  Django_api)</h4> <br/> 
+ <h4> Project Name:  REACT STOCK APP (React : Redux - Custom Hooks  - Css - React_Bootstrap ,  Django_api)</h4> <br/> 
 ---------------------------------------------------------------------------<br/>
  Project Repository:https://github.com/codarsCoder/stock-app <br/>
  ---------------------------------------------------------------------------<br/>
