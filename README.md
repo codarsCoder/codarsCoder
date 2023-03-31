@@ -51,6 +51,14 @@
 
 ## My projects
 
+ <h4> Project Name: DERS PROGRAMI (Next.js : Redux-toolkit - Css - Material UI ,  PHP api)</h4> <br/> 
+---------------------------------------------------------------------------<br/>
+ Project Repository:https://github.com/codarsCoder/dersprogram <br/>
+ ---------------------------------------------------------------------------<br/>
+ Project Live:https://dersprogrami.vercel.app// <br/>
+
+-------------------------------------------------------------------------------------------------------------------------------------------<br/>
+
  <h4> Project Name:  REACT STOCK APP (React : Redux - Custom Hooks  - Css - React_Bootstrap ,  Django_api)</h4> <br/> 
 ---------------------------------------------------------------------------<br/>
  Project Repository:https://github.com/codarsCoder/stock-app <br/>
